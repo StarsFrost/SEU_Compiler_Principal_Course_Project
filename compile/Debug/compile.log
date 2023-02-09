@@ -1,0 +1,10 @@
+﻿  源.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\project\compile\compile\源.cpp(5,22): error C2039: "filesystem": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\iostream(19): message : 参见“std”的声明
+D:\project\compile\compile\源.cpp(5,32): error C2871: “filesystem”: 具有该名称的命名空间不存在
+D:\project\compile\compile\源.cpp(9,2): error C2065: “path”: 未声明的标识符
+D:\project\compile\compile\源.cpp(9,7): error C2146: 语法错误: 缺少“;”(在标识符“codePath”的前面)
+D:\project\compile\compile\源.cpp(9,7): error C2065: “codePath”: 未声明的标识符
+D:\project\compile\compile\源.cpp(9,18): error C3861: “c_str”: 找不到标识符
+D:\project\compile\compile\源.cpp(13,1): warning C4326: “main”的返回类型应为“int”而非“void”

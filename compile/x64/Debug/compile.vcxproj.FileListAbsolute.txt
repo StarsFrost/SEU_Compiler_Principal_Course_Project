@@ -1,0 +1,2 @@
+D:\project\compile\compile\x64\Debug\compile.exe
+D:\project\compile\compile\x64\Debug\compile.pdb

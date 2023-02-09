@@ -1,0 +1,13 @@
+a=1.1e-1;
+b++=--a;
+if(a==b)
+{
+    c="abcde";
+}
+else
+{
+    c="efghi";
+}
+while(true)
+    break;
+$
